@@ -62,6 +62,6 @@ I also have experience developing mobile applications using Flutter, and I’m a
 
 <br><br>
 
-<div align="left">
+<div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula" alt="Quote">
 </div>
